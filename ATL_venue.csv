@@ -1,0 +1,415 @@
+,Name,Categories,City,Latitude,Longitude
+0,AMC North Point Mall 12,Movie Theater,Alpharetta,34.0476688938189,-84.29599944039009
+1,Total Wine & More,Wine Shop,Alpharetta,34.0464783,-84.2928514
+2,Whole Foods Market,Grocery Store,Alpharetta,34.0693701917659,-84.27832073505074
+3,Chick-fil-A,Fast Food Restaurant,Alpharetta,34.069276,-84.280967
+4,Regal Avalon,Movie Theater,Alpharetta,34.071753,-84.2765
+5,REI,Sporting Goods Shop,Alpharetta,34.0422494,-84.3055535
+6,Crust Pasta & Pizzeria,Italian Restaurant,Alpharetta,34.07170872936261,-84.29661717580292
+7,North Point Community Church,Church,Alpharetta,34.05763173613279,-84.26006550525655
+8,Sushi Nami Japanese Restaurant,Asian Restaurant,Alpharetta,34.088730569430474,-84.27168465610984
+9,Pearle Vision,Optical Shop,Roswell,34.0413896,-84.3415321
+10,Brooklyn Bagel Bakery,Bagel Shop,Johns Creek,34.02162076694389,-84.26815190621356
+11,Pampas Argentine Steakhouse,Argentinian Restaurant,Alpharetta,34.04816559836408,-84.22446678166604
+12,'Cue Barbecue,BBQ Joint,Milton,34.1142385627348,-84.26944189175597
+13,Trader Joe's,Grocery Store,Roswell,34.05920651438986,-84.3800304821063
+14,Moxie Burger,Burger Joint,Roswell,34.01365363012537,-84.36189869812259
+15,Egg Harbor Cafe,Breakfast Spot,Johns Creek,34.03182003069346,-84.18654086285058
+16,Trader Joe's,Grocery Store,Norcross,33.97898292387667,-84.2198354060636
+17,St Ives Country Club,Golf Course,Johns Creek,34.028610866941584,-84.18185709735097
+18,Stoney River Legendary Steaks,Restaurant,Duluth,34.01705649601249,-84.18970078701099
+19,Life Time Athletic and Tennis Peachtree Corners,Sports Club,Peachtree Corners,33.9648037,-84.244546
+20,Brook Run Park,Park,Atlanta,33.933562495358814,-84.29906576253467
+21,Fogo de Chão,Steakhouse,Dunwoody,33.93097344463936,-84.33704794567052
+22,J. Alexander's,American Restaurant,Dunwoody,33.932081411220224,-84.33698284686385
+23,The Capital Grille,American Restaurant,Dunwoody,33.92656407614956,-84.34057251804786
+24,Trader Joe's,Grocery Store,Marietta,33.98323092406469,-84.42643840329751
+25,Mojito's Cuban-American Bistro,Cuban Restaurant,Norcross,33.94187972586821,-84.21312055465103
+26,Seed Kitchen & Bar,American Restaurant,Marietta,33.979832766792036,-84.42812655403624
+27,Dutch Monkey Doughnuts,Donut Shop,Cumming,34.15084739141953,-84.17223653786715
+28,Alon's Bakery & Market,Bakery,Atlanta,33.92455992359866,-84.33640231153925
+29,Reveille Cafe,Café,Marietta,34.03456812579866,-84.46546486830867
+30,Newk's Eatery,Sandwich Place,Sandy Springs,33.919758917443495,-84.34129734214615
+31,Moxie Burger,Burger Joint,Marietta,33.950870511666906,-84.41329155088594
+32,"Tower Beer, Wine & Spirits",Liquor Store,Atlanta,33.910520010322536,-84.2648732323857
+33,LUSH,Cosmetics Shop,Dunwoody,33.923276,-84.340056
+34,Trader Joe's,Grocery Store,Sandy Springs,33.926247668005686,-84.37847910289233
+35,Rumi's Kitchen,Middle Eastern Restaurant,Atlanta,33.92200158132579,-84.37955126508504
+36,Sprouts Farmers Market,Health Food Store,Duluth,34.0200287,-84.1200628
+37,Tea Top,Bubble Tea Shop,Doraville,33.908004421996516,-84.28730634515561
+38,Bruster's Real Ice Cream,Ice Cream Shop,Marietta,34.04238665257773,-84.48201940106165
+39,Baldino's Giant Jersey Subs,Sandwich Place,Doraville,33.906237613340345,-84.26951109468686
+40,Sweet Hut Bakery & Cafe,Bakery,Duluth,33.962225043522785,-84.13522807556453
+41,Il Giallo Osteria & Bar,Restaurant,Sandy Springs,33.91633225746139,-84.38079258451728
+42,Pappadeaux Seafood Kitchen,Seafood Restaurant,Norcross,33.91347,-84.20665
+43,Haru Ichiban,Sushi Restaurant,Duluth,33.95689315794606,-84.13639922413105
+44,Under The Cork Tree,Tapas Restaurant,Sandy Springs,33.90780005274441,-84.38001056417939
+45,Hovan Mediterranean Gourmet,Mediterranean Restaurant,Brookhaven,33.89228444702467,-84.32559707853103
+46,Stone Summit Climbing & Fitness,Gym / Fitness Center,Atlanta,33.88421656841107,-84.2676643753611
+47,Sprouts Farmers Market,Grocery Store,Cumming,34.18409363067877,-84.1437023878097
+48,Chattahoochee Nature Trails & Park,Trail,Marietta,33.92150513842686,-84.43935109379494
+49,Atlanta Gladiators,Hockey Arena,Duluth,33.99191947460547,-84.09381641594625
+50,Ray's Donuts,Donut Shop,Marietta,34.0683435855743,-84.52203562890026
+51,Town Center Park,Plaza,Suwanee,34.055928593628785,-84.06496545602876
+52,Marie’s Italian Deli,Italian Restaurant,Cumming,34.189748307406084,-84.13620286414033
+53,Pho Dai Loi 2,Vietnamese Restaurant,Atlanta,33.86514532605898,-84.30489897784675
+54,Sims Lake Park,Park,Suwanee,34.0747626464391,-84.07514456310363
+55,"Three-13 Salon, Spa & Boutique",Salon / Barbershop,Marietta,34.01621610877048,-84.52785025061799
+56,Century House Tavern,American Restaurant,Woodstock,34.09904632111632,-84.51967626228455
+57,Capital City Country Club,Golf Course,Brookhaven,33.864402334983204,-84.35032904148102
+58,The Beer Growler Brookhaven,Beer Store,Brookhaven,33.860912799805604,-84.33117709778938
+59,Lee's Bakery,Vietnamese Restaurant,Atlanta,33.86003034824964,-84.30902424659719
+60,Chick-fil-A,Fast Food Restaurant,Woodstock,34.1229819,-84.5254224
+61,Nam Phuong,Vietnamese Restaurant,Atlanta,33.861269253111324,-84.3079345243711
+62,Total Wine & More,Wine Shop,Brookhaven,33.8588311,-84.3420887
+63,Chattahochee River National Recreation Area Palisades: Indian Trail,Trail,Atlanta,33.88629412576283,-84.44142790708977
+64,Chattahoochee Coffee Company - RIVERSIDE,Coffee Shop,Atlanta,33.8965574339531,-84.4451637477367
+65,Heirloom Market BBQ,BBQ Joint,Atlanta,33.89869707406532,-84.44719421774158
+66,Cuban Diner,Cuban Restaurant,Marietta,33.950441377899345,-84.50825249250563
+67,Mega Package Store,Wine Shop,Suwanee,34.024394579724714,-84.04470041440051
+68,Jinya Ramen Bar,Ramen Restaurant,Atlanta,33.85661843873709,-84.38284609907183
+69,Red Hare Brewing Company,Brewery,Marietta,33.924399259598864,-84.49549265734274
+70,St. Cecilia,Italian Restaurant,Atlanta,33.85107104271073,-84.36100019853922
+71,bartaco Chastain Park,Mexican Restaurant,Atlanta,33.8583927,-84.38141259999999
+72,QuikTrip,Gas Station,Lawrenceville,33.95837114415276,-84.05839883612201
+73,AMC Phipps Plaza 14,Movie Theater,Atlanta,33.85273825701329,-84.36274224470112
+74,Suitsupply,Men's Store,Atlanta,33.84739857410877,-84.36500082285498
+75,Chick-fil-A,Fast Food Restaurant,Lawrenceville,33.95741,-84.0576959
+76,Desta Ethiopian Kitchen,Ethiopian Restaurant,Atlanta,33.83781093718526,-84.3103191129337
+77,Blaze Pizza,Pizza Place,Atlanta,33.882773836378796,-84.4620379389271
+78,Truist Park,Baseball Stadium,Atlanta,33.890719,-84.467531
+79,REI,Sporting Goods Shop,Atlanta,33.8395683,-84.3211677
+80,Chattahoochee River,Park,Powers Ferry Vantage,33.87574221192948,-84.448384979663
+81,Bone's,Steakhouse,Atlanta,33.84220647411548,-84.37096900177634
+82,Chattahoochee River - East Palisades Area - National Recreation Area,Park,Atlanta,33.87804059044946,-84.44229125976562
+83,InterContinental Buckhead Atlanta,Hotel,Atlanta,33.8456001,-84.3677683
+84,Tacos La Villa,Taco Place,Smyrna,33.893432443727384,-84.47736663830891
+85,Chattahoochee National Recreation Area,Trail,Atlanta,33.87115148914393,-84.45339954051336
+86,iFLY Atlanta,Sports Club,Atlanta,33.88486959801755,-84.47114227059991
+87,Zoës Kitchen,Mediterranean Restaurant,Atlanta,33.881068895882635,-84.46313378147747
+88,Atlanta History Center,History Museum,Atlanta,33.84217054030167,-84.3860900250457
+89,Fogo de Chão Brazilian Steakhouse,Brazilian Restaurant,Atlanta,33.84061264142426,-84.36937236142728
+90,The Battery Atlanta,Shopping Plaza,Atlanta,33.88855785692528,-84.47011285677107
+91,Umi Sushi,Sushi Restaurant,Atlanta,33.83960170353726,-84.38198905777692
+92,Trader Joe's,Grocery Store,Atlanta,33.84093326253034,-84.37483913388071
+93,The St. Regis Atlanta,Hotel,Atlanta,33.839928,-84.38255939999999
+94,Marietta Square,Plaza,Marietta,33.95276729185118,-84.5496118068695
+95,Whole Foods Market,Grocery Store,Atlanta,33.84081268544798,-84.38153543219023
+96,Total Wine & More,Wine Shop,Kennesaw,34.0075861,-84.5739221
+97,Van Michael Salon,Salon / Barbershop,Atlanta,33.84053749793335,-84.38082322882178
+98,Flywheel Sports - Buckhead,Gym / Fitness Center,Atlanta,33.8385583,-84.3794777
+99,Canoe,American Restaurant,Atlanta,33.859576714841154,-84.45536186460082
+100,Your Dekalb Farmers Market,Farmers Market,Decatur,33.786804303442594,-84.27000271834832
+101,Three Taverns Craft Brewery,Brewery,Decatur,33.77274746100863,-84.2852973301235
+102,Kimball House,Gastropub,Decatur,33.77165258143892,-84.29238356104827
+103,Victory Sandwich Bar,Sandwich Place,Decatur,33.774202975028224,-84.29505469906213
+104,Fellini's Pizza,Pizza Place,Decatur,33.77332952866682,-84.28985903337752
+105,Brick Store Pub,Gastropub,Decatur,33.77515863157524,-84.29569190735194
+106,The Iberian Pig,Spanish Restaurant,Decatur,33.77438,-84.296
+107,Stone Mountain Park - 5-mile Loop,Other Great Outdoors,Stone Mountain,33.81071898356089,-84.16250684353484
+108,Butter & Cream,Ice Cream Shop,Decatur,33.7750656342383,-84.29500194003148
+109,East Lake Golf Club,Golf Course,Atlanta,33.74386177399639,-84.3026876449585
+110,Dancing Goats Coffee Bar,Coffee Shop,Decatur,33.775821646212044,-84.30316913836988
+111,Stone Mountain Walk Up Trail (Base),Trail,Stone Mountain,33.81065401107804,-84.1616141796112
+112,Decatur Yoga & Pilates,Yoga Studio,Decatur,33.77588259834881,-84.30374866355129
+113,Ale Yeah! Craft Beer Market,Beer Store,Decatur,33.765585342214344,-84.30831871439695
+114,The Pinewood,American Restaurant,Decatur,33.77548088894041,-84.29995835388048
+115,Community Q BBQ,BBQ Joint,Decatur,33.79254337071794,-84.30525837463979
+116,Sun in My Belly,Breakfast Spot,Atlanta,33.764165336330485,-84.31653119268329
+117,Michael C. Carlos Museum of Emory University,Museum,Atlanta,33.79052173638964,-84.3240881424991
+118,Mason Mill Park,Park,Decatur,33.80777670714474,-84.30681028706776
+119,The General Muir,Deli / Bodega,Atlanta,33.80131556313392,-84.32736015299147
+120,NCG Cinema Stone Mountain,Movie Theater,Stone Mountain,33.824332271900815,-84.12138513773971
+121,Candler Park,Park,Atlanta,33.76579443261052,-84.33856508522841
+122,Fox Bros. Bar-B-Q,BBQ Joint,Atlanta,33.76089344652857,-84.34741290143242
+123,The Porter Beer Bar,Beer Bar,Atlanta,33.76518298569592,-84.34965203243173
+124,Wrecking Bar Brewpub,Brewery,Atlanta,33.76213269301411,-84.34970110048938
+125,Callanwolde Fine Arts Center,Art Gallery,Atlanta,33.78187466445364,-84.34517552351906
+126,Victory Sandwich Bar,Sandwich Place,Atlanta,33.76410324085391,-84.35778093816978
+127,Savage Pizza,Pizza Place,Atlanta,33.767304931891445,-84.34910614160398
+128,Criminal Records,Record Shop,Atlanta,33.76514163165886,-84.34979110960337
+129,Jeni's Splendid Ice Creams,Ice Cream Shop,Atlanta,33.75693851095908,-84.36401051540268
+130,Folk Art Restaurant,American Restaurant,Atlanta,33.7666626,-84.3530097
+131,Atlanta BeltLine Corridor under Freedom Pkwy,Trail,Atlanta,33.764226278306246,-84.35959870297054
+132,Atlanta BeltLine - Midtown,Trail,Atlanta,33.7752680174787,-84.36518963203
+133,Krog Street Market,Market,Atlanta,33.75688730632316,-84.36397272113516
+134,Murphy's,American Restaurant,Atlanta,33.78232735951359,-84.3546043837499
+135,Atlanta BeltLine Corridor at Irwin St.,Trail,Atlanta,33.757538,-84.364893
+136,King Of Pops,Dessert Shop,Atlanta,33.76394680389022,-84.3586937194679
+137,Ponce City Market,Market,Atlanta,33.77247843683812,-84.36583134848193
+138,Hop City,Beer Store,Atlanta,33.75690720154438,-84.36394283775098
+139,Morelli's Gourmet Ice Cream,Ice Cream Shop,Atlanta,33.73390933241772,-84.34977390043049
+140,Atlanta BeltLine Corridor over North Ave,Trail,Atlanta,33.77113092564671,-84.36393869262683
+141,Alon's Bakery & Market,Bakery,Atlanta,33.79257055214756,-84.35251431617674
+142,Julianna's Coffee & Crepes,Dessert Shop,Atlanta,33.758084289631064,-84.3623382773455
+143,Chick-fil-A,Fast Food Restaurant,Stone Mountain,33.8250129,-84.1054535
+144,Home Grown,Southern / Soul Food Restaurant,Atlanta,33.74674699478201,-84.35594830537276
+145,bartaco,Mexican Restaurant,Atlanta,33.7624992,-84.3585815
+146,Atlanta BeltLine Corridor over Ralph McGill,Trail,Atlanta,33.767410876635395,-84.36090230941772
+147,La Tavola Trattoria,Italian Restaurant,Atlanta,33.78237367769458,-84.35478663728944
+148,Historic Fourth Ward Park,Park,Atlanta,33.768890636040695,-84.36489187322505
+149,Lloyd’s Bar And Grill,Bar,Atlanta,33.75492003666916,-84.35765009300509
+150,Atlanta BeltLine Eastside Trail,Trail,Atlanta,33.78134670247777,-84.36812606938948
+151,Freedom Park Trail at the Atlanta BeltLine,Trail,Atlanta,33.764124782578016,-84.35937792997717
+152,Fellini's Pizza,Pizza Place,Atlanta,33.77365351625769,-84.35759556524337
+153,Historic Fourth Ward Skatepark,Skate Park,Atlanta,33.76524355909233,-84.36058044433594
+154,3 Parks Wine Shop,Wine Shop,Atlanta,33.74116043321121,-84.35825436420652
+155,Atlanta BeltLine Corridor over Ponce de Leon,Trail,Atlanta,33.773347,-84.36458
+156,Atlanta BeltLine Corridor under Highland Ave.,Trail,Atlanta,33.761363656237364,-84.36167478561401
+157,Dr Martin Luther King Jr National Historic Site,Historic Site,Atlanta,33.756366678604145,-84.37321315235009
+158,Tiny Lou’s,French Restaurant,Atlanta,33.77362877491022,-84.3614814437252
+159,Piedmont Park,Park,Atlanta,33.78370748652825,-84.37338767616714
+160,Melrose & McQueen Salon,Salon / Barbershop,Atlanta,33.763688482372,-84.35878337252012
+161,Superica,Mexican Restaurant,Atlanta,33.757002824465374,-84.36429914497475
+162,Atlanta BeltLine Corridor under Edgewood Ave.,Trail,Atlanta,33.75429910625064,-84.36560153961182
+163,Rice Thai Authentic Thai & Sushi Bar,Thai Restaurant,Lithonia,33.69324275934683,-84.09464348976117
+164,Jackson Street Bridge,Bridge,Atlanta,33.76018404175979,-84.37430530786514
+165,Trader Joe's,Grocery Store,Atlanta,33.77962484449945,-84.36798914378377
+166,Virtue and Vice,Piercing Parlor,Atlanta,33.81691919781338,-84.35210459191093
+167,Whole Foods Market,Grocery Store,Atlanta,33.7750564038243,-84.36608201998715
+168,Atlanta Botanical Garden,Botanical Garden,Atlanta,33.79011152636887,-84.3730232287856
+169,Oakland Cemetery,Cemetery,Atlanta,33.74776407953224,-84.37325421682411
+170,Grant Park,Park,Atlanta,33.73849130458109,-84.37256124999318
+171,Aviva by Kameel,Mediterranean Restaurant,Atlanta,33.7605969735783,-84.38654827418792
+172,The Fox Theatre,Theater,Atlanta,33.77252634458606,-84.38591102695072
+173,Exhale,Spa,Atlanta,33.78329394640629,-84.38336849212646
+174,Fat Matt's Rib Shack,BBQ Joint,Atlanta,33.80461023752298,-84.36718142266446
+175,South City Kitchen,Southern / Soul Food Restaurant,Atlanta,33.77672169131819,-84.38409805297852
+176,"Tower Beer, Wine & Spirits",Liquor Store,Atlanta,33.81558722173413,-84.36627839630434
+177,Cafe Agora,Mediterranean Restaurant,Atlanta,33.78093171030256,-84.38445973743671
+178,Eventide Brewing,Brewery,Atlanta,33.72668528625053,-84.37701307438189
+179,Wood’s Chapel BBQ,BBQ Joint,Atlanta,33.73655,-84.384982
+180,National Center for Civil and Human Rights,History Museum,Atlanta,33.764039245541376,-84.39308606163704
+181,Ecco Midtown,Mediterranean Restaurant,Atlanta,33.77882657733719,-84.38598836608416
+182,High Museum of Art,Art Museum,Atlanta,33.78954635783294,-84.38594991375872
+183,Centennial Olympic Park,Park,Atlanta,33.76035574468761,-84.39350724220276
+184,Mercedes-Benz Stadium,Football Stadium,Atlanta,33.75529816886493,-84.40094232559204
+185,Atlanta Symphony Hall,Concert Hall,Atlanta,33.788659788486676,-84.3854777951624
+186,The Tabernacle,Music Venue,Atlanta,33.75871863044298,-84.39145525628788
+187,Mac's Beer & Wine,Liquor Store,Atlanta,33.780916,-84.387992
+188,Ocean Voyager built by The Home Depot,General Entertainment,Atlanta,33.763131594120566,-84.39482682526112
+189,Georgia Aquarium,Aquarium,Atlanta,33.76318578865493,-84.39490147560507
+190,College Football Hall of Fame,Museum,Atlanta,33.760184,-84.3951345
+191,CamiCakes,Cupcake Shop,Atlanta,33.814837355811086,-84.3914270902403
+192,Your Pie,Pizza Place,Lawrenceville,33.9006153,-84.00415579999999
+193,Chick-fil-A,Fast Food Restaurant,Snellville,33.887652,-84.0100388
+194,The Lincoln Fill Station & Home Brew,Beer Store,Snellville,33.85512323365973,-84.0242316185383
+195,Ted's Montana Grill,American Restaurant,Buford,34.062576,-83.994085
+196,Mellow Mushroom,Pizza Place,Snellville,33.856089,-83.997266
+197,Little Mulberry Park,Trail,Dacula,34.05417856934171,-83.88553230290388
+198,Chick-fil-A,Fast Food Restaurant,Buford,34.0793602,-83.917718
+199,The Forum on Peachtree Parkway,Shopping Mall,Norcross,33.98086832960771,-84.21755392071879
+200,Jeni's Splendid Ice Creams,Ice Cream Shop,Alpharetta,34.0707429286948,-84.27403356019984
+201,Antico Pizza Avalon,Pizza Place,Alpharetta,34.071374785803336,-84.27670004057781
+202,Chattahoochee River National Recreation Area,Trail,Atlanta,33.9872916339747,-84.32518923379442
+203,Madras Mantra,South Indian Restaurant,Decatur,33.81060798417284,-84.27126975097968
+204,Sigman Bottle Shop,Liquor Store,Conyers,33.686389121122915,-84.00305945052106
+205,REI,Sporting Goods Shop,Atlanta,33.92881745615325,-84.34883236885071
+206,Athens Greek Restaurant,Greek Restaurant,Roswell,34.04097856514359,-84.34116384957018
+207,Thai Palace,Thai Restaurant,Conyers,33.665539626830636,-84.01584307355049
+208,Hearth Pizza Tavern,Pizza Place,Atlanta,33.9186785557331,-84.38160038131306
+209,Forum Athletic Club,Gym,Atlanta,33.84669515876004,-84.36176989792828
+210,Marietta Farmer's Market,Farmers Market,Marietta,33.953207686608934,-84.55027241646137
+211,Kennesaw Mountain National Battlefield Park,National Park,Kennesaw,33.98359066544979,-84.57825358261458
+212,Top Of Kennesaw Mountain,Trail,Kennesaw,33.97792238679738,-84.57752130993171
+213,Smyrna Village Green,Park,Smyrna,33.880123645213146,-84.51722875953277
+214,Barnes & Noble,Bookstore,Marietta,33.951599988385816,-84.65683803470583
+215,Jersey Mike's Subs,Sandwich Place,Kennesaw,34.005724,-84.576914
+216,Porch Light Latin Kitchen,Latin American Restaurant,Smyrna,33.88518602677625,-84.5155622932842
+217,Rev Coffee,Coffee Shop,Smyrna,33.88222257589188,-84.50419777200925
+218,Silver Comet Trail,Trail,Austell,33.846997552454766,-84.58566998675548
+219,Swift-Cantrell Park,Park,Kennesaw,34.030574798163386,-84.6478132583622
+220,Eleanor's,Cocktail Bar,Smyrna,33.84916101312574,-84.49165674227969
+221,Muss & Turner's,Sandwich Place,Smyrna,33.84917848851792,-84.49175586081704
+222,Silver Comet Trail,Trail,Smyrna,33.84082644452991,-84.51390892267226
+223,Reveille Cafe,Café,Acworth,33.9981995255998,-84.70684364502341
+224,NCG Cinemas,Movie Theater,Acworth,34.04037131230809,-84.67750270773955
+225,Henry's Louisiana Grill,Cajun / Creole Restaurant,Acworth,34.066010692092426,-84.6777275075168
+226,Scofflaw Brewing Co.,Brewery,Atlanta,33.81377158089146,-84.44504515506983
+227,Hankook Taqueria,Taco Place,Atlanta,33.81144449101696,-84.43160027846834
+228,Sweetwater Creek State Park,State / Provincial Park,Lithia Springs,33.753364653025244,-84.63130343002473
+229,Monday Night Brewing,Brewery,Atlanta,33.79497624180679,-84.40998177521644
+230,Jeni's Splendid Ice Creams,Ice Cream Shop,Atlanta,33.78692157875245,-84.41219180818331
+231,Anis Cafe & Bistro,French Restaurant,Atlanta,33.835802526986015,-84.37652535800399
+232,Barcelona Wine Bar,Tapas Restaurant,Atlanta,33.7845225,-84.4113741
+233,HEAT,Gym,Atlanta,33.792256600719284,-84.40426137385164
+234,Doguroo,Pet Store,Atlanta,33.79419784789974,-84.40946266922106
+235,The Optimist,Seafood Restaurant,Atlanta,33.779891644417035,-84.41059717939422
+236,Gio's Chicken Amalfitano,Italian Restaurant,Atlanta,33.78487453102762,-84.40593278038521
+237,Stoddard's Range and Guns,Gun Shop,Atlanta,33.79299464363589,-84.40380429743904
+238,Antico Pizza Napoletana,Pizza Place,Atlanta,33.784637,-84.40559
+239,Sublime Doughnuts,Donut Shop,Atlanta,33.781734382239335,-84.40492984733824
+240,Tuk Tuk Thai Food Loft,Thai Restaurant,Atlanta,33.80165694584953,-84.39246448272368
+241,Marcel,Steakhouse,Atlanta,33.78581992194668,-84.41258507007812
+242,Krispy Kreme Doughnuts,Donut Shop,Riverdale,33.5722974,-84.4130562
+243,Crystal Lake Golf Club,Golf Course,Hampton,33.45809531010579,-84.25012267572171
+244,Chick-fil-A,Fast Food Restaurant,Fayetteville,33.4298637,-84.4587033
+245,One Flew South,Sushi Restaurant,Atlanta,33.64093541637026,-84.42590997894764
+246,Delta Flight Museum,Museum,Atlanta,33.656201228272415,-84.42214484894274
+247,Oz Pizza,Pizza Place,East Point,33.67885493613844,-84.44058250582633
+248,Golds Gym,Gym,McDonough,33.431172535058735,-84.17423002186413
+249,Monday Night Garage,Brewery,Atlanta,33.72940670048745,-84.41830253935484
+250,Chick-fil-A,Fast Food Restaurant,Peachtree City,33.4405095,-84.5907624
+251,Chick-fil-A,Fast Food Restaurant,Peachtree City,33.4097586,-84.5673223
+252,Chick-fil-A,Fast Food Restaurant,McDonough,33.4392897,-84.1229061
+253,Gunshow,Restaurant,Atlanta,33.74067488669494,-84.35808918330585
+254,Wine Shoe,Wine Shop,Atlanta,33.75155944634878,-84.39893717875819
+255,Ria's Bluebird,Breakfast Spot,Atlanta,33.746583624581845,-84.37352962650318
+256,Arden's Garden,Juice Bar,Atlanta,33.75099817271621,-84.32192713389071
+257,Falcon Statue,Outdoor Sculpture,Atlanta,33.756378355326085,-84.39947789168252
+258,Grindhouse Killer Burgers,Burger Joint,Atlanta,33.75424049764732,-84.3798550136115
+259,Ammazza,Pizza Place,Atlanta,33.75402,-84.36795
+260,Sweet Auburn Curb Market,Farmers Market,Atlanta,33.75421463616757,-84.37995286177879
+261,LottaFrutta,Café,Atlanta,33.755894283787306,-84.3680533814202
+262,Chick-fil-A,Fast Food Restaurant,Atlanta,33.7244791,-84.511251
+263,Mercedes-Benz Club,Sports Club,Atlanta,33.755579030221824,-84.40068474381265
+264,Ladybird Grove & Mess Hall,American Restaurant,Atlanta,33.75968473532744,-84.36417242003067
+265,Barcelona Wine Bar,Wine Bar,Atlanta,33.76279037962673,-84.35892210960702
+266,Two Urban Licks,American Restaurant,Atlanta,33.768566022668296,-84.3613173199822
+267,Surin of Thailand,Thai Restaurant,Atlanta,33.7765778,-84.352685
+268,Atlanta Fitness,Gym,Newnan,33.384446645332915,-84.76405141577453
+269,Meat N Greet,American Restaurant,Newnan,33.375717056485705,-84.7992597566241
+270,Newk's Express Cafe,Diner,Newnan,33.38806075344267,-84.76398835806394
+271,Cracker Barrel Old Country Store,American Restaurant,Newnan,33.395285787224864,-84.75980818388712
+272,Pita by The Beirut,Mediterranean Restaurant,Newnan,33.38933786465589,-84.76416362675154
+273,Chick-fil-A,Fast Food Restaurant,Newnan,33.395108,-84.760646
+274,Ashley Park,Shopping Mall,Newnan,33.38955782238383,-84.76430104473667
+275,Summit Family YMCA,Gym / Fitness Center,Newnan,33.40043557969294,-84.7211205118891
+276,La Parrilla Mexican Restaurant,Restaurant,Newnan,33.3924345,-84.7619828
+277,Dynasty Restaurant,Chinese Restaurant,Newnan,33.383140073283506,-84.7881971403465
+278,Five Below,Discount Store,Newnan,33.3997749,-84.744014
+279,Chick-fil-A,Fast Food Restaurant,Newnan,33.4091136,-84.6858904
+280,Publix,Grocery Store,Newnan,33.37426908549089,-84.75273108709126
+281,Leaf and Bean,Coffee Shop,Newnan,33.374863368805066,-84.80045952257711
+282,Chylacas Mexican Restaurant & Grill,Mexican Restaurant,Newnan,33.383096905684845,-84.79125215953688
+283,GameStop,Video Game Store,Newnan,33.39028325129713,-84.76453040839098
+284,Texas Roadhouse,Steakhouse,Newnan,33.396489,-84.740468
+285,BJ's Wholesale Club,Warehouse Store,Newnan,33.3901719786848,-84.76022049857337
+286,Hooters,American Restaurant,Newnan,33.39611306873098,-84.74444559631252
+287,Partners II Pizza at Summergrove,Pizza Place,Newnan,33.37921302587064,-84.73957774906421
+288,Goldens,American Restaurant,Newnan,33.375090150001284,-84.79924577988395
+289,Buffalo Wild Wings,Wings Joint,Newnan,33.393821845672065,-84.76328597233987
+290,The Home Depot,Hardware Store,Newnan,33.4015528,-84.741275
+291,QuikTrip,Convenience Store,Newnan,33.400977357139475,-84.7249631449784
+292,Fabiano's Pizzeria,Pizza Place,Newnan,33.37495763618889,-84.80047111103262
+293,Shane's Rib Shack,BBQ Joint,Newnan,33.394281324210915,-84.76056524444407
+294,NCG Cinemas,Movie Theater,Sharpsburg,33.398599312184636,-84.61688883792412
+295,World Gym,Gym / Fitness Center,Peachtree City,33.40147833133354,-84.59582800094077
+296,Victoria's Secret PINK,Lingerie Store,Peachtree City,33.394952896180655,-84.59186083590099
+297,Marble Slab Creamery,Ice Cream Shop,Peachtree City,33.395483,-84.590548
+298,Due South,Southern / Soul Food Restaurant,Peachtree City,33.39439643963625,-84.58923876285553
+299,Partner's II Pizza,Pizza Place,Peachtree City,33.40093059622737,-84.58562100378165
+300,Salad Express,Salad Place,Peachtree City,33.39729977096164,-84.59736870595
+301,Mimi's Good Food,Diner,Peachtree City,33.3804253153292,-84.57927417127358
+302,Chick-fil-A,Fast Food Restaurant,Peachtree City,33.3961993,-84.6001579
+303,The Avenue,Shopping Mall,Peachtree City,33.39559427995967,-84.59226211738621
+304,Mellow Mushroom,Pizza Place,Peachtree City,33.407012,-84.600203
+305,Carrabba's Italian Grill,Italian Restaurant,Peachtree City,33.398530994760016,-84.5921457994893
+306,The Beirut,Mediterranean Restaurant,Peachtree City,33.43863561078389,-84.58903773049408
+307,Chicken Salad Chick,Restaurant,Peachtree City,33.4399285,-84.58857
+308,The Woodbury Shoppe,Gift Shop,Senoia,33.301303843218285,-84.5543134906377
+309,The Clothes Less Traveled,Thrift / Vintage Store,Peachtree City,33.37710166318541,-84.57449387053148
+310,Ted's Montana Grill,American Restaurant,Peachtree City,33.396131,-84.592594
+311,Starbucks,Coffee Shop,Peachtree City,33.42276679509968,-84.55799128734715
+312,Crowne Plaza Atlanta SW - Peachtree City,Hotel,Peachtree City,33.4059599,-84.5942394
+313,Sprouts Farmers Market,Grocery Store,Peachtree City,33.4194924,-84.5602983
+314,Starbucks,Coffee Shop,Peachtree City,33.39626731,-84.59263558
+315,Johnny's New York Style Pizza,Pizza Place,Peachtree City,33.37747769775737,-84.5608104742397
+316,Panera Bread,Bakery,Peachtree City,33.4385557,-84.5902236
+317,Atlanta Vapor,Smoke Shop,Peachtree City,33.39563052426979,-84.60527837276459
+318,The Home Depot,Hardware Store,Peachtree City,33.3990873,-84.5987059
+319,Dairy Queen,Ice Cream Shop,Peachtree City,33.413890766801146,-84.56246026240933
+320,Nikko Japanese Steakhouse & Sushi,Japanese Restaurant,Tyrone,33.48936095221598,-84.58590572815525
+321,Casa Vieja,Mexican Restaurant,Peachtree City,33.34306898256631,-84.5357244015448
+322,Kedron World of Beverage,Liquor Store,Peachtree City,33.438957,-84.591142
+323,The Italian Oven Restaurant,Italian Restaurant,Peachtree City,33.424526935784186,-84.55732252208843
+324,Which Wich? Superior Sandwiches,Sandwich Place,Peachtree City,33.39610234283947,-84.59048855510174
+325,LongHorn Steakhouse,Steakhouse,Peachtree City,33.39748187502924,-84.59259062440056
+326,The Fresh Market,Grocery Store,Peachtree City,33.40914755009693,-84.56903383103953
+327,World Gym,Gym,Fayetteville,33.42074086999025,-84.56062942475913
+328,Chick-fil-A,Fast Food Restaurant,Peachtree City,33.3426182,-84.5342654
+329,Starbucks,Coffee Shop,Peachtree City,33.439182,-84.588405
+330,Frank's Family Resturant,Italian Restaurant,Palmetto,33.50168890577492,-84.6412164207963
+331,Georgia Shrimp Co,Seafood Restaurant,Peachtree City,33.410250814819,-84.56794073817707
+332,The Farmhouse,American Restaurant,Palmetto,33.52848712191197,-84.74412542669536
+333,Senoia Coffee & Cafe,Coffee Shop,Senoia,33.300004119117034,-84.55404683119944
+334,Chick-fil-A,Fast Food Restaurant,Fairburn,33.5434967,-84.5762637
+335,Kakao Cafe,Café,Tyrone,33.47947584665573,-84.59015558626008
+336,Oz Pizza,Pizza Place,Fairburn,33.56702811037534,-84.58179541494259
+337,Gremlin Growlers,Beer Store,Fayetteville,33.44849,-84.45524
+338,Starbucks,Coffee Shop,Fayetteville,33.430969724413515,-84.456999026063
+339,Hanna Brothers,Food Court,Fayetteville,33.474672,-84.510261
+340,Waffle House,Breakfast Spot,Fayetteville,33.448872,-84.48482
+341,Frank's @ The Old Mill,Mediterranean Restaurant,Fayetteville,33.448829310512544,-84.4949210579593
+342,Twisted Taco,Restaurant,Fayetteville,33.44800712338451,-84.45525408601962
+343,Smoothie King,Smoothie Shop,Fayetteville,33.476774,-84.448827
+344,Starbucks,Coffee Shop,Fairburn,33.53862249797486,-84.57626223564148
+345,Michaels,Arts & Crafts Store,Fayetteville,33.456264803036056,-84.45338768893635
+346,Chick-fil-A,Fast Food Restaurant,Fayetteville,33.4674852,-84.4465426
+347,Starbucks,Coffee Shop,Fayetteville,33.4758204176778,-84.43852530094857
+348,McCurry Park,Park,Fayetteville,33.45836989641371,-84.4145679473877
+349,Panera Bread,Bakery,Fayetteville,33.4754532,-84.4389893
+350,Broadway Diner,Diner,Fayetteville,33.438886933750744,-84.45575679409909
+351,Cinemark,Movie Theater,Fayetteville,33.47837737882004,-84.44471597671509
+352,Chattahoochee Hills Eventing (Bouckaert Farm),Farm,Fairburn,33.635436267227185,-84.70897512560482
+353,Lowe's,Hardware Store,Fayetteville,33.4722853,-84.4465828
+354,Lexus South Atlanta,Auto Dealership,Union City,33.56429791428402,-84.51881972773513
+355,Wendy's,Fast Food Restaurant,Fayetteville,33.4335442,-84.4562802
+356,Chick-fil-A,Hawaiian Restaurant,Fayetteville,33.4464622,-84.4675288
+357,La Parrilla Mexican Restaurant,Mexican Restaurant,Fayetteville,33.47921139,-84.43743146
+358,Kenwood Park,Park,Fayetteville,33.517463367365636,-84.43847974589181
+359,Hobby Lobby,Fabric Shop,Fayetteville,33.478444,-84.440155
+360,Publix,Grocery Store,Carrollton,33.560526527723134,-85.07504062315783
+361,Bath & Body Works,Cosmetics Shop,Fayetteville,33.48153844128756,-84.44663427662633
+362,Firehouse Subs,Sandwich Place,Fayetteville,33.456895,-84.453199
+363,Milano's Pizza,Italian Restaurant,La Grange,33.12463606041188,-85.0424738188221
+364,Old Navy,Clothing Store,Fayetteville,33.47855635580287,-84.44058001041412
+365,The Bagel Meister,Bagel Shop,Douglasville,33.73105847693103,-84.73590588001757
+366,Gumbeaux's Cajun Cafe,Cajun / Creole Restaurant,Douglasville,33.75072500225306,-84.7493858231114
+367,Chick-fil-A,Fast Food Restaurant,Villa Rica,33.7289649,-84.9407001
+368,Camp Creek World of Beverages,Liquor Store,Atlanta,33.657392954544385,-84.51187386910071
+369,The Corner Grille,Restaurant,College Park,33.651016516417805,-84.44975348752914
+370,Chicken & Beer,Fried Chicken Joint,Atlanta,33.638494329766836,-84.42931835167796
+371,Topgolf,Golf Driving Range,Atlanta,33.7987376,-84.4276235
+372,Atlanta Brewing Company,Brewery,Atlanta,33.81852406780174,-84.43481629950841
+373,JCT Kitchen & Bar,Southern / Soul Food Restaurant,Atlanta,33.78652581106172,-84.41239947640516
+374,Cobb Energy Performing Arts Centre,Performing Arts Venue,Atlanta,33.884471446155615,-84.45871547826654
+375,Atlanta Motor Speedway,Racetrack,Hampton,33.38439200036649,-84.31572568776343
+376,Chick-fil-A,Fast Food Restaurant,Hampton,33.449401,-84.3259954
+377,QuikTrip,Convenience Store,Riverdale,33.5542978381271,-84.41372906344648
+378,Chick-fil-A,Fast Food Restaurant,Jonesboro,33.5539166,-84.3696433
+379,Chick-fil-A,Fast Food Restaurant,Riverdale,33.5756225,-84.4129849
+380,Golden Krust Caribbean Restaurant,Caribbean Restaurant,College Park,33.59092674958568,-84.46887717503206
+381,Aldi,Grocery Store,College Park,33.596542377265074,-84.42797631025314
+382,Firehouse Subs,Sandwich Place,Griffin,33.247006,-84.264961
+383,Planet Smoothie,Smoothie Shop,Morrow,33.568809,-84.331767
+384,Chick-fil-A,Fast Food Restaurant,Morrow,33.5625775,-84.323142
+385,Publix,Grocery Store,Locust Grove,33.36581184698578,-84.18108331561038
+386,Chick-fil-A,Fast Food Restaurant,McDonough,33.4630677,-84.2146147
+387,Chick-fil-A,Fast Food Restaurant,Stockbridge,33.5530406,-84.2718552
+388,Heron Bay Golf & Country Club,Golf Course,Locust Grove,33.33563733268081,-84.2072592595067
+389,Delta Sky Club,Airport Lounge,Atlanta,33.6410332522783,-84.43597693664228
+390,15th Street Pizza & Pub,Pizza Place,McDonough,33.4820890980456,-84.22368397510039
+391,Tutti Frutti,Ice Cream Shop,McDonough,33.42192750418076,-84.18649435043335
+392,Chick-fil-A,Fast Food Restaurant,Forest Park,33.6190353,-84.3517361
+393,Navy Federal Credit Union,Credit Union,Stockbridge,33.553091,-84.262677
+394,Cracker Barrel Old Country Store,American Restaurant,McDonough,33.42986789965116,-84.18213365116624
+395,Pho Dai Loi - Forest Park,Vietnamese Restaurant,Forest Park,33.64387375498953,-84.36403561530216
+396,Piece of Cake,Bakery,Atlanta,33.6562182533563,-84.5139461567595
+397,Krispy Kreme Doughnuts,Donut Shop,Stockbridge,33.55425446173629,-84.26338465429916
+398,Hobby Lobby,Fabric Shop,McDonough,33.4236108,-84.1905792
+399,Nancy's Chicago Pizza,Pizza Place,East Point,33.65769947013644,-84.50046908294554
+400,Volare,Italian Restaurant,Hapeville,33.65889960673664,-84.40881692648153
+401,Chick-fil-A,Fast Food Restaurant,Hapeville,33.6563816,-84.4040053
+402,Delta 747 Museum,Museum,Atlanta,33.656962,-84.421723
+403,Arden's Garden,Juice Bar,East Point,33.670421153934356,-84.44368272171563
+404,Coach Factory Outlet,Accessories Store,Locust Grove,33.35091069516513,-84.12293923873104
+405,Mellow Mushroom,Pizza Place,Conyers,33.637902,-84.013884
+406,Tin Plate,New American Restaurant,Conyers,33.66652160028917,-84.0174369666633
+407,Arizona's,Steakhouse,Lithonia,33.69835548821757,-84.08944872456131
+408,Chick-fil-A,Fast Food Restaurant,Covington,33.603535,-83.86581
+409,Wild Heaven Beer,Brewery,Decatur,33.77658226354855,-84.27578150933913
+410,No. 246,Italian Restaurant,Decatur,33.77553761696676,-84.29534945135546
+411,Stone Mountain Summit,Mountain,Stone Mountain,33.805537530807946,-84.14532636919057
+412,Southern Sweets Bakery,Bakery,Decatur,33.780256283408434,-84.26973870835896
+413,Stone Mountain Park,Theme Park,Stone Mountain,33.811935328649334,-84.14733439077375
